@@ -1,24 +1,26 @@
+# React Boilerplate
 
-# Willet
-[![Build Status](https://travis-ci.org/pakokrew/willet.svg?branch=master)](https://travis-ci.org/pakokrew/willet)
-
-> Willet is a decentralized web app to access [Stellar Network](https://www.stellar.org). It does not require any backend and only use [Horizon API](https://www.stellar.org/developers/reference).
-
-## Overview
-
-**Willet** is a *decentralized* web application wallet to hold multiple crypto currencies
-
-
-### Bugs and ideas
-
-If you see any bug or have any idea about things to add or change, feel free to contact me or post an issue.
+> This is a boilerplate for react web applications packaging all the tools that I use day-to-day
 
 ## Development
 
 ### Dependencies
 
-- Node.js >= v6.1
+- Node.js >= v7.8
 - NPM >= v3.1
+
+### Bundled libraries
+
+- React
+- Redux
+- Redux Form
+_ React Router Redux
+- eslint
+- mocha + chai
+- async actions
+- webpack + webpack blocks
+- lodash
+- moment
 
 ### Installation
 
